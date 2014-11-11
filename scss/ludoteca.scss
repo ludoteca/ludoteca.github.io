@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* Você por aqui de novo? :) */
+
+body {
+	text-align: center;
+	background-image: url("../img/creampaper.png");
+}
+
+.container{
+	padding-top: 25vh;
+	#ludo-logo {
+		background-image: url("../img/ludo-logo.png");
+		background-position: center;
+		background-repeat: no-repeat;
+		height: 250px;
+		text-indent:-99999px;
+	}
+}
+
